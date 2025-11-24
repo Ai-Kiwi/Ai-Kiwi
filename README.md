@@ -11,4 +11,4 @@ Currently I am also working on a game which will be made up of small voxels, thi
 Additionally, I’ve worked on programs to the Minecraft mod CC-Tweaked, which can be found on my GitHub. While many of my experiments and side projects remain private, some of my work is occasionally published and shared on my profile. Many of these projects are from a long time ago so quality varies. 
 
 I’m always looking to take on new challenges, learn new technologies, and collaborate on meaningful projects. If you'd like to connect, feel free to reach out via contact@aikiwi.dev. My personal site is available at https://aikiwi.dev. 
-Thank you for visiting!
+Thank you for visiting!  
