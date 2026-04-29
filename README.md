@@ -1,15 +1,13 @@
-Hello,
+Hi. I’m Ai Kiwi, a developer based in New Zealand with a strong interest in how computers work and their underlying software works. I also enjoy full-stack development.
 
-I’m Ai Kiwi, a developer based in New Zealand with a strong interest in how computers work and their underlying software works. I enjoy fullstack development as well. I enjoy learning how and why software works. 
+My current project is Toastium (https://github.com/Ai-Kiwi/toastium), an operating system I am building from scratch with the goal of running it on my game console, which I am making with someone. The operating system is designed to target RISC-V, and I am programming most of it from scratch in C and assembly. As of writing, it is too early to talk about features, so if you are interested, have a brief look at the devlog to see where I am up to.
+The writeup can be found here: https://github.com/Ai-Kiwi/ai-kiwi-devlog/tree/main/toastium.
 
-One of my active projects is https://HistorySaber.com — a website that tracks and displays historical ScoreSaber leaderboards for a popular VR game called Beat Saber. It’s built using SvelteKit on the frontend and backed by a PostgreSQL database. 
+Another project in the works is Voxelith, a game made up of small voxels inspired by Teardown and Minecraft. This game is programmed in Rust, using the GPU API wgpu for rendering. The project uses many techniques, such as Mesh Buffering with defragmentation, cascaded lighting, GPU instances for rendering entities, an infinite world, and fully editable terrain with real-time, low-latency rendering. 
 
-In the past, I also developed PlateRates, a mobile app designed for sharing food creations and receiving community ratings. The app was built with Flutter for the  front end. Initially the website was coded using MongoDB nodejs however I later changed to postgresql as I thought it would be a better fit and along with it decided to make the switch to rust to learn how it worked and it also had the added benefits of being much more performant. 
+A past project I worked on is https://HistorySaber.com — a website that tracks and displays historical ScoreSaber leaderboards for a popular VR game called Beat Saber. It’s built using SvelteKit on the frontend and uses a PostgreSQL database. This project was created because I felt there needed to be a way for people to see their progress over time and how they used to compare with others. 
+Project: https://github.com/Ai-Kiwi/HistorySaber
 
-Currently I am also working on a game which will be made up of small voxels, this game is programmed using rust with the gpu api wgpu for rendering. I find this project quite interesting at the moment because of how indepth it goes with learning how the gpu works and being able to use it to benefit my software. 
-
-Additionally, I’ve worked on programs to the Minecraft mod CC-Tweaked, which can be found on my GitHub. While many of my experiments and side projects remain private, some of my work is occasionally published and shared on my profile. Many of these projects are from a long time ago so quality varies. 
+In the past, I also developed PlateRates, a mobile app designed for sharing food creations and receiving community ratings. The app was built with Flutter for the front end. Initially, the website was coded using MongoDB and NodeJS; however, I later switched to PostgreSQL, as I thought it would be a better fit. Along with that, I decided to switch to Rust to learn how it worked, and it also had the added benefit of being much more performant, althrough the user count wasn't large enough to justify the switch I thought it would be a good learning experence.
 
 I’m always looking to take on new challenges, learn new technologies, and collaborate on meaningful projects. If you'd like to connect, feel free to reach out via contact@aikiwi.dev. My personal site is available at https://aikiwi.dev. 
-
-Thank you for visiting!  
