@@ -10,3 +10,5 @@ A past project I worked on is HistorySaber a website that tracks and displays hi
 Project: https://github.com/Ai-Kiwi/HistorySaber
 
 In the past, I also developed PlateRates, a mobile app designed for sharing food creations and receiving community ratings. The app was built with Flutter for the front end. Initially, the website was built with MongoDB and Node.js. However, later, I switched to PostgreSQL because I thought it would be a better fit. Along with that, I decided to switch to Rust to learn how it worked, and it also had the added benefit of being much more performant. Although the user count wasn't large enough to justify the switch, I thought it would be a good learning experience.
+
+If you  would like to reach out to me, you can contact me by email at contact@aikiwi.dev
